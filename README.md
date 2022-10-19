@@ -1,5 +1,5 @@
 # Damned_Forest-built
-LMB - attack/r/n
+LMB - attack
 E - interact
 Space - dodge
 1 - heal
